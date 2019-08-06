@@ -2,11 +2,16 @@
 title: "spider_charts"
 author: "David Ibañez"
 date: "6 de agosto de 2019"
-output: html_document
+output: 
+  html_document: 
+    figure_keep : TRUE
+    self_contained: no 
+    
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ```{r include=FALSE}
@@ -49,11 +54,12 @@ datos[, lapply(.SD, function(x){seq(min(x),max(x),length.out = 5)}), .SDcols = i
 sovereignty_levels <- seq(min(datos$Sovereignty_Index),max(datos$Sovereignty_Index),length.out = 5)
 ```
 # Spider charts 
-```{r echo=FALSE}
+```{r figures, echo=FALSE}
 # Color vector
 colors_border=c( rgb(0,0.0,0.3,0.9), rgb(0.8,0.2,0.5,0.9) , rgb(0.7,0.5,0.1,0.9), rgb(0.2,0.5,0.5,0.9)   )
 colors_in=c( rgb(0,0.0,0.3,0.2) , rgb(0.8,0.2,0.5,0.2) , rgb(0.7,0.5,0.1,0.2), rgb(0.2,0.5,0.5,0.2))
 i = 1
+
 for(i in 1:length(countries)){
   plot_data <- datos[wb_name == countries[i]]
   years <-  unique(plot_data$year)
@@ -66,7 +72,8 @@ for(i in 1:length(countries)){
   colnames(plot_data) <- c( "Sovereignty \n Index", "Political \n System Index", "Globalization \n Index", "Growth \n GDP")
     
     # plot with default options:
-  radarchart(
+
+ radarchart(
     plot_data  ,
     axistype = 1 ,
     #custom polygon
@@ -84,6 +91,7 @@ for(i in 1:length(countries)){
     vlcex = 0.8,
     title = paste0(countries[i], "'s analysis")
     )
+
   
   # Add a legend
   legend(
