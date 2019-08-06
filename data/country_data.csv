@@ -1,0 +1,645 @@
+﻿year,wb_name,wb_code,region,incomelevel,Growth_GDP,Sovereignty_Index,Political_System_Index,Globalization_Index
+1995,Afghanistan,AFG,South Asia,Low income,0,1.1,0.7,1.0
+2000,Afghanistan,AFG,South Asia,Low income,0,1.0,4.2,1.1
+2005,Afghanistan,AFG,South Asia,Low income,11.2,1.6,1.1,1.2
+2015,Afghanistan,AFG,South Asia,Low income,1.5,1.0,4.9,0.9
+1995,Albania,ALB,Europe & Central Asia,Upper middle income,13.3,2.7,7.3,1.3
+2000,Albania,ALB,Europe & Central Asia,Upper middle income,7,2.6,7.2,2.0
+2005,Albania,ALB,Europe & Central Asia,Upper middle income,5.5,2.8,7.8,2.6
+2015,Albania,ALB,Europe & Central Asia,Upper middle income,2.2,4.3,7.8,3.2
+1995,Algeria,DZA,Middle East & North Africa,Upper middle income,3.8,2.3,6.4,2.6
+2000,Algeria,DZA,Middle East & North Africa,Upper middle income,3.8,2.2,6.1,2.2
+2005,Algeria,DZA,Middle East & North Africa,Upper middle income,5.9,2.9,6.8,3.1
+2015,Algeria,ALG,Middle East & North Africa,Upper middle income,3.8,3.3,6.9,3.0
+1995,Angola,AGO,Sub-Saharan Africa,Upper middle income,15,1.3,0.0,2.2
+2000,Angola,AGO,Sub-Saharan Africa,Upper middle income,3.1,1.0,6.1,2.5
+2005,Angola,AGO,Sub-Saharan Africa,Upper middle income,15,1.7,6.4,2.7
+2015,Angola,ANG,Sub-Saharan Africa,Upper middle income,0.9,1.8,6.4,2.9
+1995,Argentina,ARG,Latin America & Caribbean,Upper middle income,-2.8,5.5,7.6,3.2
+2000,Argentina,ARG,Latin America & Caribbean,Upper middle income,-0.8,4.1,7.7,3.1
+2005,Argentina,ARG,Latin America & Caribbean,Upper middle income,8.9,3.4,7.7,3.3
+2015,Argentina,ARG,Latin America & Caribbean,Upper middle income,2.7,3.7,7.8,3.5
+1995,Armenia,ARM,Europe & Central Asia,Lower middle income,6.9,3.1,6.2,2.0
+2000,Armenia,ARM,Europe & Central Asia,Lower middle income,5.9,2.9,6.3,2.4
+2005,Armenia,ARM,Europe & Central Asia,Lower middle income,13.9,3.4,6.3,3.1
+2015,Armenia,ARM,Europe & Central Asia,Lower middle income,3.2,3.9,6.4,3.3
+1995,Australia,AUS,East Asia & Pacific,High income: OECD,3.8,9.3,10.0,3.9
+2000,Australia,AUS,East Asia & Pacific,High income: OECD,3.9,8.7,10.0,3.5
+2005,Australia,AUS,East Asia & Pacific,High income: OECD,3.2,9.1,10.0,4.5
+2015,Australia,AUL,East Asia & Pacific,High income: OECD,2.3,8.9,10.0,4.4
+1995,Austria,AUT,Europe & Central Asia,High income: OECD,2.7,8.4,10.0,9.1
+2000,Austria,AUT,Europe & Central Asia,High income: OECD,3.4,8.3,10.0,9.0
+2005,Austria,AUT,Europe & Central Asia,High income: OECD,2.2,9.1,10.0,9.0
+2015,Austria,AUS,Europe & Central Asia,High income: OECD,1.1,8.6,10.0,8.8
+1995,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,-11.8,1.8,6.0,2.7
+2000,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,11.1,1.7,5.6,2.5
+2005,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,28,2.2,5.7,3.5
+2015,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,1.1,3.0,5.8,2.1
+1995,Bahrain,BHR,Middle East & North Africa,High income: nonOECD,3.9,5.9,6.5,2.0
+2000,Bahrain,BHR,Middle East & North Africa,High income: nonOECD,5.3,5.7,6.0,2.5
+2005,Bahrain,BHR,Middle East & North Africa,High income: nonOECD,6.8,5.7,6.5,3.0
+2015,Bahrain,BAH,Middle East & North Africa,High income: nonOECD,2.9,5.2,6.2,2.7
+1995,Bangladesh,BGD,South Asia,Low income,5.1,2.6,5.6,1.5
+2000,Bangladesh,BGD,South Asia,Low income,5.3,1.6,5.5,1.8
+2005,Bangladesh,BGD,South Asia,Low income,6.5,1.6,5.5,2.0
+2015,Bangladesh,BNG,South Asia,Low income,6.6,2.6,5.1,1.7
+1995,Belarus,BLR,Europe & Central Asia,Upper middle income,-10.4,3.7,6.7,3.6
+2000,Belarus,BLR,Europe & Central Asia,Upper middle income,5.8,3.3,5.6,3.9
+2005,Belarus,BLR,Europe & Central Asia,Upper middle income,9.4,2.3,5.7,4.4
+2015,Belarus,BLR,Europe & Central Asia,Upper middle income,-3.8,3.3,5.8,3.9
+1995,Belgium,BEL,Europe & Central Asia,High income: OECD,2.4,8.0,10.0,9.1
+2000,Belgium,BEL,Europe & Central Asia,High income: OECD,3.6,7.2,10.0,9.3
+2005,Belgium,BEL,Europe & Central Asia,High income: OECD,2.1,8.0,10.0,9.3
+2015,Belgium,BEL,Europe & Central Asia,High income: OECD,1.7,8.4,9.6,9.3
+1995,Benin,BEN,Sub-Saharan Africa,Low income,6,4.1,5.6,2.9
+2000,Benin,BEN,Sub-Saharan Africa,Low income,5.9,3.9,5.5,3.4
+2005,Benin,BEN,Sub-Saharan Africa,Low income,1.7,3.2,5.5,3.8
+2015,Benin,BEN,Sub-Saharan Africa,Low income,2.1,4.0,5.7,3.3
+1995,Bhutan,BTN,South Asia,Lower middle income,7.1,5.8,5.0,1.8
+2000,Bhutan,BTN,South Asia,Lower middle income,6.9,5.6,4.6,2.3
+2005,Bhutan,BTN,South Asia,Lower middle income,7.1,5.8,5.2,2.8
+2015,Bhutan,BHU,South Asia,Lower middle income,6.6,6.5,6.4,2.1
+1995,Bolivia,BOL,Latin America & Caribbean,Lower middle income,4.7,3.9,6.9,3.4
+2000,Bolivia,BOL,Latin America & Caribbean,Lower middle income,2.5,3.3,6.9,3.5
+2005,Bolivia,BOL,Latin America & Caribbean,Lower middle income,4.4,2.7,6.7,3.5
+2015,Bolivia,BOL,Latin America & Caribbean,Lower middle income,4.9,3.4,6.6,3.3
+1995,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,20.8,3.4,1.8,1.7
+2000,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,5.5,3.3,1.3,1.8
+2005,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,8.8,3.2,1.4,2.3
+2015,Bosnia and Herzegovina,BOS,Europe & Central Asia,Upper middle income,3.1,4.1,1.5,3.0
+1995,Botswana,BWA,Sub-Saharan Africa,Upper middle income,7,6.7,7.6,3.0
+2000,Botswana,BWA,Sub-Saharan Africa,Upper middle income,2,6.3,7.7,3.5
+2005,Botswana,BWA,Sub-Saharan Africa,Upper middle income,4.6,6.5,7.7,3.7
+2015,Botswana,BOT,Sub-Saharan Africa,Upper middle income,-1.7,6.8,7.7,3.3
+1995,Brazil,BRA,Latin America & Caribbean,Upper middle income,4.4,3.8,7.7,2.9
+2000,Brazil,BRA,Latin America & Caribbean,Upper middle income,4.4,4.4,7.7,3.0
+2005,Brazil,BRA,Latin America & Caribbean,Upper middle income,3.2,4.1,7.7,3.1
+2015,Brazil,BRA,Latin America & Caribbean,Upper middle income,-3.5,4.3,7.7,3.1
+1995,Bulgaria,BGR,Europe & Central Asia,Upper middle income,2.9,3.8,7.7,3.6
+2000,Bulgaria,BGR,Europe & Central Asia,Upper middle income,4.8,4.2,7.7,3.9
+2005,Bulgaria,BGR,Europe & Central Asia,Upper middle income,7.1,4.7,7.8,4.2
+2015,Bulgaria,BGR,Europe & Central Asia,Upper middle income,3.5,4.8,7.8,8.4
+1995,Burkina Faso,BFA,Sub-Saharan Africa,Low income,5.7,3.3,4.6,2.9
+2000,Burkina Faso,BFA,Sub-Saharan Africa,Low income,1.8,3.4,4.5,3.0
+2005,Burkina Faso,BFA,Sub-Saharan Africa,Low income,8.7,3.6,4.9,3.2
+2015,Burkina Faso,BFO,Sub-Saharan Africa,Low income,3.9,3.9,5.6,2.6
+1995,Burundi,BDI,Sub-Saharan Africa,Low income,-7.9,1.6,0.7,3.5
+2000,Burundi,BDI,Sub-Saharan Africa,Low income,-0.9,1.7,4.7,2.8
+2005,Burundi,BDI,Sub-Saharan Africa,Low income,0.9,1.9,5.6,2.5
+2015,Burundi,BUI,Sub-Saharan Africa,Low income,-3.9,1.9,4.9,1.8
+1995,Cambodia,KHM,East Asia & Pacific,Low income,9.9,2.5,5.1,2.9
+2000,Cambodia,KHM,East Asia & Pacific,Low income,10.7,2.4,5.1,3.1
+2005,Cambodia,KHM,East Asia & Pacific,Low income,13.3,2.2,5.1,3.6
+2015,Cambodia,CAM,East Asia & Pacific,Low income,7,2.5,5.2,3.7
+1995,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,3.5,2.1,5.5,2.5
+2000,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,3.6,2.1,5.2,3.0
+2005,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,2,2.2,5.3,3.3
+2015,Cameroon,CAO,Sub-Saharan Africa,Lower middle income,5.7,2.6,5.4,2.7
+1995,Canada,CAN,North America,High income: OECD,2.7,9.4,10.0,4.5
+2000,Canada,CAN,North America,High income: OECD,5.2,9.2,10.0,4.8
+2005,Canada,CAN,North America,High income: OECD,3.2,8.9,10.0,4.7
+2015,Canada,CAN,North America,High income: OECD,0.7,9.3,10.0,4.6
+1995,Cape Verde,CPV,Sub-Saharan Africa,Lower middle income,14.2,5.9,6.8,2.5
+2000,Cape Verde,CPV,Sub-Saharan Africa,Lower middle income,14.3,5.6,6.7,2.4
+2005,Cape Verde,CPV,Sub-Saharan Africa,Lower middle income,6.9,5.2,7.0,2.7
+2015,Cape Verde,CAP,Sub-Saharan Africa,Lower middle income,1,6.1,7.0,3.0
+1995,Central African Republic,CAF,Sub-Saharan Africa,Low income,7.2,2.2,5.5,1.9
+2000,Central African Republic,CAF,Sub-Saharan Africa,Low income,-2.5,2.1,5.4,2.2
+2005,Central African Republic,CAF,Sub-Saharan Africa,Low income,0.9,1.7,4.8,2.4
+2015,Central African Republic,CEN,Sub-Saharan Africa,Low income,4.6,1.7,0.5,2.4
+1995,Chad,TCD,Sub-Saharan Africa,Low income,1.2,1.8,4.7,2.6
+2000,Chad,TCD,Sub-Saharan Africa,Low income,-0.9,1.8,4.7,2.9
+2005,Chad,TCD,Sub-Saharan Africa,Low income,17.3,1.3,4.7,3.3
+2015,Chad,CHA,Sub-Saharan Africa,Low income,2.8,1.9,4.8,3.0
+1995,Chile,CHL,Latin America & Caribbean,High income: OECD,8.9,8.3,9.6,2.6
+2000,Chile,CHL,Latin America & Caribbean,High income: OECD,5.3,7.6,9.8,3.2
+2005,Chile,CHL,Latin America & Caribbean,High income: OECD,5.7,7.9,9.8,5.2
+2015,Chile,CHL,Latin America & Caribbean,High income: OECD,2.3,7.8,10.0,4.9
+1995,China,CHN,East Asia & Pacific,Upper middle income,10.9,2.9,5.9,2.9
+2000,China,CHN,East Asia & Pacific,Upper middle income,8.5,3.2,5.6,2.8
+2005,China,CHN,East Asia & Pacific,Upper middle income,11.4,3.2,5.7,3.4
+2015,China,CHN,East Asia & Pacific,Upper middle income,6.9,3.8,5.8,4.5
+1995,Colombia,COL,Latin America & Caribbean,Upper middle income,5.2,3.4,7.6,4.0
+2000,Colombia,COL,Latin America & Caribbean,Upper middle income,2.9,3.1,7.5,3.4
+2005,Colombia,COL,Latin America & Caribbean,Upper middle income,4.7,3.7,7.5,3.5
+2015,Colombia,COL,Latin America & Caribbean,Upper middle income,3,4.2,7.6,3.7
+1995,Comoros,COM,Sub-Saharan Africa,Low income,3.6,2.7,0.7,2.2
+2000,Comoros,COM,Sub-Saharan Africa,Low income,10.8,2.3,4.7,2.2
+2005,Comoros,COM,Sub-Saharan Africa,Low income,2.8,2.3,5.5,2.5
+2015,Comoros,COM,Sub-Saharan Africa,Low income,1.1,2.7,5.9,1.5
+1995,"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,0.7,0.7,0.7,3.3
+2000,"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,-6.9,0.7,0.4,3.4
+2005,"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,6.1,0.6,0.1,3.6
+2015,"Congo, Dem. Rep.",ZAI,Sub-Saharan Africa,Low income,6.9,0.8,5.5,3.4
+1995,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,4,2.1,6.4,2.2
+2000,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,7.6,1.8,5.0,2.8
+2005,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,7.8,1.8,5.3,3.1
+2015,"Congo, Rep.",CON,Sub-Saharan Africa,Lower middle income,2.6,2.3,5.4,3.0
+1995,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,4.1,6.8,8.0,3.9
+2000,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,3.8,5.9,8.0,4.1
+2005,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,3.9,5.2,8.0,4.8
+2015,Costa Rica,COS,Latin America & Caribbean,Upper middle income,3.6,6.3,8.0,5.7
+1995,Croatia,HRV,Europe & Central Asia,High income: nonOECD,0,3.5,6.9,2.8
+2000,Croatia,HRV,Europe & Central Asia,High income: nonOECD,3.8,4.3,8.6,3.0
+2005,Croatia,HRV,Europe & Central Asia,High income: nonOECD,4.1,4.5,8.8,3.6
+2015,Croatia,CRO,Europe & Central Asia,High income: nonOECD,2.4,5.7,8.8,7.6
+1995,Cuba,CUB,Latin America & Caribbean,Upper middle income,2.5,4.0,5.9,3.1
+2000,Cuba,CUB,Latin America & Caribbean,Upper middle income,5.9,3.8,5.6,3.0
+2005,Cuba,CUB,Latin America & Caribbean,Upper middle income,11.2,3.4,5.7,2.8
+2015,Cuba,CUB,Latin America & Caribbean,Upper middle income,4.4,4.4,5.8,2.3
+1995,Cyprus,CYP,Europe & Central Asia,High income: nonOECD,8.5,7.1,9.0,4.0
+2000,Cyprus,CYP,Europe & Central Asia,High income: nonOECD,6,6.7,9.0,3.8
+2005,Cyprus,CYP,Europe & Central Asia,High income: nonOECD,4.9,6.5,9.0,8.2
+2015,Cyprus,CYP,Europe & Central Asia,High income: nonOECD,2,7.1,9.0,8.0
+1995,Czech Republic,CZE,Europe & Central Asia,High income: OECD,6.2,6.5,10.0,2.9
+2000,Czech Republic,CZE,Europe & Central Asia,High income: OECD,4.3,5.2,10.0,3.2
+2005,Czech Republic,CZE,Europe & Central Asia,High income: OECD,6.5,5.6,10.0,7.9
+2015,Czech Republic,CZR,Europe & Central Asia,High income: OECD,5.3,6.7,9.8,7.8
+1995,Denmark,DNK,Europe & Central Asia,High income: OECD,3,9.9,10.0,8.9
+2000,Denmark,DNK,Europe & Central Asia,High income: OECD,3.7,9.7,10.0,8.6
+2005,Denmark,DNK,Europe & Central Asia,High income: OECD,2.3,9.8,10.0,8.7
+2015,Denmark,DEN,Europe & Central Asia,High income: OECD,2.3,9.8,10.0,8.4
+1995,Djibouti,DJI,Middle East & North Africa,Lower middle income,0,2.8,5.2,1.5
+2000,Djibouti,DJI,Middle East & North Africa,Lower middle income,0,2.7,5.9,1.4
+2005,Djibouti,DJI,Middle East & North Africa,Lower middle income,0,2.6,6.0,1.5
+2015,Djibouti,DJI,Middle East & North Africa,Lower middle income,9.7,3.1,6.1,1.3
+1995,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,5.7,3.7,7.3,2.6
+2000,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,4.7,3.5,7.7,2.6
+2005,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,9.4,3.2,7.7,3.1
+2015,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,7,3.9,7.7,3.7
+1995,Ecuador,ECU,Latin America & Caribbean,Upper middle income,2.3,3.5,7.9,4.0
+2000,Ecuador,ECU,Latin America & Caribbean,Upper middle income,1.1,2.8,7.4,3.3
+2005,Ecuador,ECU,Latin America & Caribbean,Upper middle income,5.3,2.6,7.4,3.8
+2015,Ecuador,ECU,Latin America & Caribbean,Upper middle income,0.1,3.3,7.3,3.4
+1995,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,4.6,3.4,5.3,2.9
+2000,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,6.4,3.4,5.0,3.6
+2005,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,4.5,3.4,5.4,4.4
+2015,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,4.4,3.2,5.4,3.2
+1995,El Salvador,SLV,Latin America & Caribbean,Lower middle income,4.7,3.6,6.6,2.8
+2000,El Salvador,SLV,Latin America & Caribbean,Lower middle income,1.1,4.1,6.6,3.2
+2005,El Salvador,SLV,Latin America & Caribbean,Lower middle income,2.7,4.1,6.6,4.0
+2015,El Salvador,SAL,Latin America & Caribbean,Lower middle income,2.4,4.3,6.7,4.0
+1995,Equatorial Guinea,GNQ,Sub-Saharan Africa,High income: nonOECD,17.5,1.9,6.9,2.7
+2000,Equatorial Guinea,GNQ,Sub-Saharan Africa,High income: nonOECD,18.2,1.5,6.4,3.9
+2005,Equatorial Guinea,GNQ,Sub-Saharan Africa,High income: nonOECD,16.7,1.5,6.6,3.2
+2015,Equatorial Guinea,EQG,Sub-Saharan Africa,High income: nonOECD,-9.1,1.6,6.7,3.0
+1995,Eritrea,ERI,Sub-Saharan Africa,Low income,2.9,2.7,4.5,1.5
+2000,Eritrea,ERI,Sub-Saharan Africa,Low income,-3.1,2.7,4.3,1.4
+2005,Eritrea,ERI,Sub-Saharan Africa,Low income,2.6,2.1,4.3,1.5
+2015,Eritrea,ERI,Sub-Saharan Africa,Low income,0,1.3,4.4,2.4
+1995,Estonia,EST,Europe & Central Asia,High income: OECD,4.5,6.5,9.4,3.0
+2000,Estonia,EST,Europe & Central Asia,High income: OECD,10.6,6.3,9.8,3.1
+2005,Estonia,EST,Europe & Central Asia,High income: OECD,9.4,7.0,9.8,7.9
+2015,Estonia,EST,Europe & Central Asia,High income: OECD,1.9,7.9,9.8,7.8
+1995,Ethiopia,ETH,Sub-Saharan Africa,Low income,6.1,2.6,5.1,1.5
+2000,Ethiopia,ETH,Sub-Saharan Africa,Low income,6.1,2.7,5.0,1.4
+2005,Ethiopia,ETH,Sub-Saharan Africa,Low income,11.8,1.9,4.7,1.5
+2015,Ethiopia,ETI,Sub-Saharan Africa,Low income,10.4,3.0,4.7,1.3
+1995,Fiji,FJI,East Asia & Pacific,Upper middle income,2.5,4.9,7.3,2.5
+2000,Fiji,FJI,East Asia & Pacific,Upper middle income,-1.7,4.0,0.1,2.5
+2005,Fiji,FJI,East Asia & Pacific,Upper middle income,0.7,4.3,7.4,2.9
+2015,Fiji,FJI,East Asia & Pacific,Upper middle income,4.7,4.3,6.9,3.9
+1995,Finland,FIN,Europe & Central Asia,High income: OECD,4.2,9.7,10.0,9.1
+2000,Finland,FIN,Europe & Central Asia,High income: OECD,5.6,10.0,10.0,8.6
+2005,Finland,FIN,Europe & Central Asia,High income: OECD,2.8,10.0,10.0,8.6
+2015,Finland,FIN,Europe & Central Asia,High income: OECD,0.5,9.8,10.0,8.4
+1995,France,FRA,Europe & Central Asia,High income: OECD,2.1,7.8,9.8,7.8
+2000,France,FRA,Europe & Central Asia,High income: OECD,3.9,7.3,9.8,7.9
+2005,France,FRA,Europe & Central Asia,High income: OECD,1.7,8.0,9.8,8.0
+2015,France,FRN,Europe & Central Asia,High income: OECD,1.1,7.8,9.8,7.7
+1995,Gabon,GAB,Sub-Saharan Africa,Upper middle income,5,3.7,6.2,1.8
+2000,Gabon,GAB,Sub-Saharan Africa,Upper middle income,-1.9,3.6,5.9,2.4
+2005,Gabon,GAB,Sub-Saharan Africa,Upper middle income,2.7,3.2,6.1,2.6
+2015,Gabon,GAB,Sub-Saharan Africa,Upper middle income,3.9,3.4,7.0,2.6
+1995,"Gambia, The",GMB,Sub-Saharan Africa,Low income,0.9,3.1,4.5,3.2
+2000,"Gambia, The",GMB,Sub-Saharan Africa,Low income,5.5,3.1,4.4,3.4
+2005,"Gambia, The",GMB,Sub-Saharan Africa,Low income,-0.9,2.9,4.5,2.9
+2015,"Gambia, The",GAM,Sub-Saharan Africa,Low income,5.9,2.9,4.5,3.0
+1995,Georgia,GEO,Europe & Central Asia,Lower middle income,2.6,2.2,6.4,2.5
+2000,Georgia,GEO,Europe & Central Asia,Lower middle income,1.8,2.5,6.3,2.8
+2005,Georgia,GEO,Europe & Central Asia,Lower middle income,9.6,2.8,6.6,3.2
+2015,Georgia,GRG,Europe & Central Asia,Lower middle income,2.9,5.8,6.6,3.7
+1995,Germany,DEU,Europe & Central Asia,High income: OECD,1.7,8.9,10.0,10.0
+2000,Germany,DEU,Europe & Central Asia,High income: OECD,3,8.3,10.0,9.5
+2005,Germany,DEU,Europe & Central Asia,High income: OECD,0.7,8.7,10.0,9.2
+2015,Germany,GMY,Europe & Central Asia,High income: OECD,1.7,9.0,10.0,9.2
+1995,Ghana,GHA,Sub-Saharan Africa,Lower middle income,4.1,3.8,5.7,3.0
+2000,Ghana,GHA,Sub-Saharan Africa,Lower middle income,3.7,4.0,5.9,2.9
+2005,Ghana,GHA,Sub-Saharan Africa,Lower middle income,5.9,4.0,6.7,3.0
+2015,Ghana,GHA,Sub-Saharan Africa,Lower middle income,2.2,5.0,6.7,3.1
+1995,Greece,GRC,Europe & Central Asia,High income: OECD,2.1,5.5,10.0,7.7
+2000,Greece,GRC,Europe & Central Asia,High income: OECD,3.9,5.8,10.0,7.8
+2005,Greece,GRC,Europe & Central Asia,High income: OECD,0.6,5.5,10.0,7.8
+2015,Greece,GRC,Europe & Central Asia,High income: OECD,-0.4,5.2,10.0,8.1
+1995,Guatemala,GTM,Latin America & Caribbean,Lower middle income,4.9,3.1,6.2,3.9
+2000,Guatemala,GTM,Latin America & Caribbean,Lower middle income,3.6,3.1,6.7,3.7
+2005,Guatemala,GTM,Latin America & Caribbean,Lower middle income,3.3,2.6,6.7,3.9
+2015,Guatemala,GUA,Latin America & Caribbean,Lower middle income,4.1,3.1,6.8,4.4
+1995,Guinea,GIN,Sub-Saharan Africa,Low income,4.6,1.9,4.9,3.4
+2000,Guinea,GIN,Sub-Saharan Africa,Low income,2.5,1.8,4.7,3.2
+2005,Guinea,GIN,Sub-Saharan Africa,Low income,3,1.7,4.8,3.3
+2015,Guinea,GUI,Sub-Saharan Africa,Low income,3.8,2.5,5.3,2.5
+1995,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,4.4,1.8,5.5,2.7
+2000,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,5.4,2.1,5.4,2.5
+2005,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,4.3,2.1,5.5,2.8
+2015,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,6.1,1.7,5.6,2.9
+1995,Guyana,GUY,Latin America & Caribbean,Lower middle income,5,3.5,6.5,2.2
+2000,Guyana,GUY,Latin America & Caribbean,Lower middle income,-1.4,3.2,6.4,2.2
+2005,Guyana,GUY,Latin America & Caribbean,Lower middle income,-2,2.9,6.5,3.3
+2015,Guyana,GUY,Latin America & Caribbean,Lower middle income,3.2,3.5,6.6,4.0
+1995,Haiti,HTI,Latin America & Caribbean,Low income,9.9,2.2,5.7,1.3
+2000,Haiti,HTI,Latin America & Caribbean,Low income,0.9,2.0,4.7,1.6
+2005,Haiti,HTI,Latin America & Caribbean,Low income,1.8,1.3,0.0,2.7
+2015,Haiti,HAI,Latin America & Caribbean,Low income,1.2,1.7,0.5,1.8
+1995,Honduras,HND,Latin America & Caribbean,Lower middle income,6.2,2.3,6.5,3.8
+2000,Honduras,HND,Latin America & Caribbean,Lower middle income,7.3,2.7,6.6,3.6
+2005,Honduras,HND,Latin America & Caribbean,Lower middle income,6.1,2.7,6.6,4.1
+2015,Honduras,HON,Latin America & Caribbean,Lower middle income,3.8,3.3,6.6,4.6
+1995,Hungary,HUN,Europe & Central Asia,Upper middle income,1.5,5.8,8.0,4.0
+2000,Hungary,HUN,Europe & Central Asia,Upper middle income,4.2,6.2,8.0,4.0
+2005,Hungary,HUN,Europe & Central Asia,Upper middle income,4.4,6.1,8.0,8.5
+2015,Hungary,HUN,Europe & Central Asia,Upper middle income,3.5,5.9,8.0,8.5
+1995,India,IND,South Asia,Lower middle income,7.6,3.6,6.9,2.9
+2000,India,IND,South Asia,Lower middle income,3.8,3.5,6.9,2.9
+2005,India,IND,South Asia,Lower middle income,7.9,3.5,6.9,3.2
+2015,India,IND,South Asia,Lower middle income,8,4.2,6.9,3.2
+1995,Indonesia,IDN,East Asia & Pacific,Lower middle income,8.2,2.5,5.2,3.8
+2000,Indonesia,IDN,East Asia & Pacific,Lower middle income,4.9,2.2,6.5,3.4
+2005,Indonesia,IDN,East Asia & Pacific,Lower middle income,5.7,2.4,6.7,3.6
+2015,Indonesia,INS,East Asia & Pacific,Lower middle income,4.9,4.0,6.9,3.6
+1995,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,2.3,2.9,6.0,1.8
+2000,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,5.9,2.8,6.9,2.1
+2005,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,3.2,2.6,5.8,2.7
+2015,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,-1.3,2.7,5.8,1.3
+1995,Iraq,IRQ,Middle East & North Africa,Upper middle income,2.1,1.1,5.8,2.5
+2000,Iraq,IRQ,Middle East & North Africa,Upper middle income,1.4,1.1,5.4,2.7
+2005,Iraq,IRQ,Middle East & North Africa,Upper middle income,4.4,1.2,1.4,2.8
+2015,Iraq,IRQ,Middle East & North Africa,Upper middle income,2.5,1.3,7.4,2.9
+1995,Ireland,IRL,Europe & Central Asia,High income: OECD,9.6,9.1,10.0,8.4
+2000,Ireland,IRL,Europe & Central Asia,High income: OECD,9.5,8.0,10.0,8.7
+2005,Ireland,IRL,Europe & Central Asia,High income: OECD,5.7,8.3,10.0,8.7
+2015,Ireland,IRE,Europe & Central Asia,High income: OECD,25.1,8.6,10.0,8.4
+1995,Israel,ISR,Middle East & North Africa,High income: OECD,6.6,7.5,9.4,3.5
+2000,Israel,ISR,Middle East & North Africa,High income: OECD,7.7,6.6,9.2,4.1
+2005,Israel,ISR,Middle East & North Africa,High income: OECD,3.9,6.4,9.3,4.3
+2015,Israel,ISR,Middle East & North Africa,High income: OECD,2.6,6.8,9.3,3.5
+1995,Italy,ITA,Europe & Central Asia,High income: OECD,2.9,5.1,10.0,9.0
+2000,Italy,ITA,Europe & Central Asia,High income: OECD,3.7,5.7,10.0,9.0
+2005,Italy,ITA,Europe & Central Asia,High income: OECD,0.9,5.8,10.0,8.9
+2015,Italy,ITA,Europe & Central Asia,High income: OECD,0.9,5.4,10.0,8.7
+1995,Jamaica,JAM,Latin America & Caribbean,Upper middle income,2.3,4.6,7.9,2.7
+2000,Jamaica,JAM,Latin America & Caribbean,Upper middle income,0.9,4.4,7.8,2.6
+2005,Jamaica,JAM,Latin America & Caribbean,Upper middle income,0.9,4.0,7.8,3.9
+2015,Jamaica,JAM,Latin America & Caribbean,Upper middle income,0.9,4.7,7.8,4.1
+1995,Japan,JPN,East Asia & Pacific,High income: OECD,2.7,7.5,10.0,2.7
+2000,Japan,JPN,East Asia & Pacific,High income: OECD,2.8,7.0,10.0,2.8
+2005,Japan,JPN,East Asia & Pacific,High income: OECD,1.7,7.8,10.0,3.7
+2015,Japan,JPN,East Asia & Pacific,High income: OECD,1.2,8.4,10.0,4.0
+1995,Jordan,JOR,Middle East & North Africa,Upper middle income,6.2,5.0,6.5,3.2
+2000,Jordan,JOR,Middle East & North Africa,Upper middle income,4.2,4.7,6.3,3.5
+2005,Jordan,JOR,Middle East & North Africa,Upper middle income,8.1,5.4,6.4,4.7
+2015,Jordan,JOR,Middle East & North Africa,Upper middle income,2.4,5.3,6.3,3.5
+1995,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,-8.2,2.5,6.3,3.2
+2000,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,9.8,2.8,6.0,3.4
+2005,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,9.7,2.8,5.8,3.3
+2015,Kazakhstan,KZK,Europe & Central Asia,Upper middle income,1.2,3.3,5.9,3.5
+1995,Kenya,KEN,Sub-Saharan Africa,Low income,4.4,2.6,4.6,4.1
+2000,Kenya,KEN,Sub-Saharan Africa,Low income,0.6,2.3,4.7,4.4
+2005,Kenya,KEN,Sub-Saharan Africa,Low income,5.9,2.4,5.8,4.6
+2015,Kenya,KEN,Sub-Saharan Africa,Low income,5.7,2.9,5.9,3.0
+1995,"Korea, Dem. Rep.",PRK,East Asia & Pacific,Low income,0,0.2,4.2,0.5
+2000,"Korea, Dem. Rep.",PRK,East Asia & Pacific,Low income,0,0.1,3.9,0.5
+2005,"Korea, Dem. Rep.",PRK,East Asia & Pacific,Low income,0,0.0,4.1,0.6
+2015,"Korea, Dem. Rep.",PRK,East Asia & Pacific,Low income,0,0.0,4.1,0.4
+1995,"Korea, Rep.",KOR,East Asia & Pacific,High income: OECD,9.6,5.4,9.4,2.3
+2000,"Korea, Rep.",KOR,East Asia & Pacific,High income: OECD,8.9,5.1,9.6,2.9
+2005,"Korea, Rep.",KOR,East Asia & Pacific,High income: OECD,3.9,5.9,9.6,3.4
+2015,"Korea, Rep.",ROK,East Asia & Pacific,High income: OECD,2.8,6.4,9.6,4.7
+1995,Kosovo,XKX,Europe & Central Asia,Low income,0,3.7,4.5,0.8
+2000,Kosovo,XKX,Europe & Central Asia,Low income,0,3.7,5.6,0.8
+2005,Kosovo,XKX,Europe & Central Asia,Low income,6,3.4,5.5,0.9
+2015,Kosovo,XKX,Europe & Central Asia,Low income,4.1,3.7,5.8,0.8
+1995,Kuwait,KWT,Middle East & North Africa,High income: nonOECD,4.9,5.6,6.7,1.9
+2000,Kuwait,KWT,Middle East & North Africa,High income: nonOECD,4.7,5.3,6.3,2.3
+2005,Kuwait,KWT,Middle East & North Africa,High income: nonOECD,10.1,5.1,6.5,2.8
+2015,Kuwait,KUW,Middle East & North Africa,High income: nonOECD,0.6,4.9,6.5,2.5
+1995,Kyrgyz Republic,KGZ,Europe & Central Asia,Low income,-5.4,2.8,4.8,2.9
+2000,Kyrgyz Republic,KGZ,Europe & Central Asia,Low income,5.4,2.5,4.6,3.3
+2005,Kyrgyz Republic,KGZ,Europe & Central Asia,Low income,-0.2,2.1,5.2,3.2
+2015,Kyrgyz Republic,KYR,Europe & Central Asia,Low income,3.9,2.8,5.7,2.2
+1995,Lao PDR,LAO,East Asia & Pacific,Lower middle income,7,3.2,5.2,2.9
+2000,Lao PDR,LAO,East Asia & Pacific,Lower middle income,5.8,2.7,4.9,2.7
+2005,Lao PDR,LAO,East Asia & Pacific,Lower middle income,7.1,2.5,5.0,2.8
+2015,Lao PDR,LAO,East Asia & Pacific,Lower middle income,7.3,2.8,5.1,3.5
+1995,Latvia,LVA,Europe & Central Asia,High income: nonOECD,-1.8,4.4,8.7,2.8
+2000,Latvia,LVA,Europe & Central Asia,High income: nonOECD,5.4,4.5,8.6,2.9
+2005,Latvia,LVA,Europe & Central Asia,High income: nonOECD,10.7,5.3,8.6,7.4
+2015,Latvia,LAT,Europe & Central Asia,High income: nonOECD,3,6.5,8.7,7.6
+1995,Lebanon,LBN,Middle East & North Africa,Upper middle income,6.4,3.4,1.8,1.4
+2000,Lebanon,LBN,Middle East & North Africa,Upper middle income,1.3,3.3,1.3,2.7
+2005,Lebanon,LBN,Middle East & North Africa,Upper middle income,2.7,3.3,7.4,3.8
+2015,Lebanon,LEB,Middle East & North Africa,Upper middle income,0.4,2.9,7.4,2.7
+1995,Lesotho,LSO,Sub-Saharan Africa,Lower middle income,3.3,4.1,6.8,1.6
+2000,Lesotho,LSO,Sub-Saharan Africa,Lower middle income,3.9,3.8,0.0,2.3
+2005,Lesotho,LSO,Sub-Saharan Africa,Lower middle income,3.5,3.8,6.7,3.4
+2015,Lesotho,LES,Sub-Saharan Africa,Lower middle income,2.8,4.5,6.8,2.2
+1995,Liberia,LBR,Sub-Saharan Africa,Low income,0,1.1,0.7,2.1
+2000,Liberia,LBR,Sub-Saharan Africa,Low income,0,1.2,4.9,3.3
+2005,Liberia,LBR,Sub-Saharan Africa,Low income,5.3,1.8,0.1,3.8
+2015,Liberia,LBR,Sub-Saharan Africa,Low income,0,3.4,5.6,1.2
+1995,Libya,LBY,Middle East & North Africa,Upper middle income,0,1.9,5.9,1.8
+2000,Libya,LBY,Middle East & North Africa,Upper middle income,3.7,1.8,5.6,2.2
+2005,Libya,LBY,Middle East & North Africa,Upper middle income,11.9,2.2,5.7,3.1
+2015,Libya,LIB,Middle East & North Africa,Upper middle income,-8.9,0.9,0.7,1.9
+1995,Lithuania,LTU,Europe & Central Asia,High income: nonOECD,0,5.3,9.0,2.9
+2000,Lithuania,LTU,Europe & Central Asia,High income: nonOECD,3.8,4.9,9.0,3.1
+2005,Lithuania,LTU,Europe & Central Asia,High income: nonOECD,7.7,5.7,9.0,7.7
+2015,Lithuania,LIT,Europe & Central Asia,High income: nonOECD,2,7.1,9.0,8.0
+1995,Luxembourg,LUX,Europe & Central Asia,High income: OECD,1.4,9.4,10.0,9.8
+2000,Luxembourg,LUX,Europe & Central Asia,High income: OECD,8.2,9.1,10.0,10.0
+2005,Luxembourg,LUX,Europe & Central Asia,High income: OECD,3.2,9.0,10.0,10.0
+2015,Luxembourg,LUX,Europe & Central Asia,High income: OECD,3.9,9.2,10.0,10.0
+1995,"Macedonia, FYR",MKD,Europe & Central Asia,Upper middle income,-1.1,3.5,7.4,2.5
+2000,"Macedonia, FYR",MKD,Europe & Central Asia,Upper middle income,4.5,3.2,7.4,2.8
+2005,"Macedonia, FYR",MKD,Europe & Central Asia,Upper middle income,4.7,3.1,7.8,4.5
+2015,"Macedonia, FYR",MAC,Europe & Central Asia,Upper middle income,3.9,4.6,7.8,3.6
+1995,Madagascar,MDG,Sub-Saharan Africa,Low income,1.7,2.8,5.9,4.1
+2000,Madagascar,MDG,Sub-Saharan Africa,Low income,4.8,2.7,5.6,3.8
+2005,Madagascar,MDG,Sub-Saharan Africa,Low income,4.6,3.4,5.7,3.8
+2015,Madagascar,MAG,Sub-Saharan Africa,Low income,3.1,2.9,5.6,3.8
+1995,Malawi,MWI,Sub-Saharan Africa,Low income,16.7,4.2,5.6,3.1
+2000,Malawi,MWI,Sub-Saharan Africa,Low income,1.6,4.0,5.5,3.3
+2005,Malawi,MWI,Sub-Saharan Africa,Low income,3.3,3.1,5.5,3.4
+2015,Malawi,MAW,Sub-Saharan Africa,Low income,2.8,3.5,5.6,3.8
+1995,Malaysia,MYS,East Asia & Pacific,Upper middle income,9.8,5.8,7.1,4.1
+2000,Malaysia,MYS,East Asia & Pacific,Upper middle income,8.9,5.1,6.9,3.7
+2005,Malaysia,MYS,East Asia & Pacific,Upper middle income,5.3,5.6,7.0,3.8
+2015,Malaysia,MAL,East Asia & Pacific,Upper middle income,5.1,5.7,7.3,3.9
+1995,Mali,MLI,Sub-Saharan Africa,Low income,0.9,3.5,5.7,3.1
+2000,Mali,MLI,Sub-Saharan Africa,Low income,-0.1,3.3,5.5,3.8
+2005,Mali,MLI,Sub-Saharan Africa,Low income,6.5,3.4,5.7,4.3
+2015,Mali,MLI,Sub-Saharan Africa,Low income,6,3.3,5.5,3.5
+1995,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,9.8,3.6,5.3,1.4
+2000,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,-0.4,3.4,5.0,2.0
+2005,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,9,3.2,5.2,2.0
+2015,Mauritania,MAA,Sub-Saharan Africa,Lower middle income,1.4,2.9,5.5,1.6
+1995,Mauritius,MUS,Sub-Saharan Africa,Upper middle income,4.3,5.7,8.0,3.9
+2000,Mauritius,MUS,Sub-Saharan Africa,Upper middle income,8.2,5.5,8.0,4.1
+2005,Mauritius,MUS,Sub-Saharan Africa,Upper middle income,1.8,5.4,8.0,4.2
+2015,Mauritius,MAS,Sub-Saharan Africa,Upper middle income,3.6,6.4,8.0,3.8
+1995,Mexico,MEX,Latin America & Caribbean,Upper middle income,-6.3,3.7,7.2,4.1
+2000,Mexico,MEX,Latin America & Caribbean,Upper middle income,4.9,3.9,7.7,5.9
+2005,Mexico,MEX,Latin America & Caribbean,Upper middle income,2.3,4.0,7.7,6.1
+2015,Mexico,MEX,Latin America & Caribbean,Upper middle income,3.3,4.0,7.7,4.8
+1995,Moldova,MDA,Europe & Central Asia,Lower middle income,0,3.6,6.6,2.7
+2000,Moldova,MDA,Europe & Central Asia,Lower middle income,2.1,3.0,6.6,2.5
+2005,Moldova,MDA,Europe & Central Asia,Lower middle income,7.5,3.1,6.9,3.3
+2015,Moldova,MLD,Europe & Central Asia,Lower middle income,-0.3,3.7,6.9,3.4
+1995,Mongolia,MNG,East Asia & Pacific,Lower middle income,6.4,4.9,6.9,3.1
+2000,Mongolia,MNG,East Asia & Pacific,Lower middle income,1.1,4.4,7.0,3.0
+2005,Mongolia,MNG,East Asia & Pacific,Lower middle income,7.3,3.6,7.0,3.8
+2015,Mongolia,MON,East Asia & Pacific,Lower middle income,2.4,4.4,7.0,3.4
+1995,Morocco,MAR,Middle East & North Africa,Lower middle income,-5.4,4.2,5.2,2.8
+2000,Morocco,MAR,Middle East & North Africa,Lower middle income,1.9,4.6,5.0,4.0
+2005,Morocco,MAR,Middle East & North Africa,Lower middle income,3.3,3.4,5.1,4.1
+2015,Morocco,MOR,Middle East & North Africa,Lower middle income,4.5,4.0,5.4,3.4
+1995,Mozambique,MOZ,Sub-Saharan Africa,Low income,2.2,3.7,5.5,0.9
+2000,Mozambique,MOZ,Sub-Saharan Africa,Low income,1.7,2.9,5.4,1.8
+2005,Mozambique,MOZ,Sub-Saharan Africa,Low income,8.7,3.2,5.4,2.6
+2015,Mozambique,MZM,Sub-Saharan Africa,Low income,6.6,3.3,5.5,1.2
+1995,Myanmar,MMR,East Asia & Pacific,Low income,6.9,1.2,4.5,0.9
+2000,Myanmar,MMR,East Asia & Pacific,Low income,13.7,1.0,4.2,0.7
+2005,Myanmar,MMR,East Asia & Pacific,Low income,13.6,1.0,4.2,0.7
+2015,Myanmar,MYA,East Asia & Pacific,Low income,7,2.0,0.0,0.9
+1995,Namibia,NAM,Sub-Saharan Africa,Upper middle income,3.9,6.0,7.4,2.7
+2000,Namibia,NAM,Sub-Saharan Africa,Upper middle income,3.5,5.3,7.4,3.3
+2005,Namibia,NAM,Sub-Saharan Africa,Upper middle income,2.5,4.8,7.4,3.9
+2015,Namibia,NAM,Sub-Saharan Africa,Upper middle income,6.1,5.8,7.4,2.3
+1995,Nepal,NPL,South Asia,Low income,3.5,3.5,5.5,2.2
+2000,Nepal,NPL,South Asia,Low income,6.2,3.0,5.5,2.2
+2005,Nepal,NPL,South Asia,Low income,3.5,2.2,4.4,2.3
+2015,Nepal,NEP,South Asia,Low income,3.3,2.8,5.6,0.7
+1995,Netherlands,NLD,Europe & Central Asia,High income: OECD,3.1,9.5,10.0,8.1
+2000,Netherlands,NLD,Europe & Central Asia,High income: OECD,4.2,9.3,10.0,8.2
+2005,Netherlands,NLD,Europe & Central Asia,High income: OECD,2.1,9.1,10.0,8.2
+2015,Netherlands,NTH,Europe & Central Asia,High income: OECD,2,9.5,10.0,7.8
+1995,New Zealand,NZL,East Asia & Pacific,High income: OECD,4.7,10.0,10.0,3.9
+2000,New Zealand,NZL,East Asia & Pacific,High income: OECD,2.9,9.4,10.0,3.6
+2005,New Zealand,NZL,East Asia & Pacific,High income: OECD,3.3,9.8,10.0,4.4
+2015,New Zealand,NEW,East Asia & Pacific,High income: OECD,3.6,9.8,10.0,4.5
+1995,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,5.9,3.4,6.8,2.5
+2000,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,4.1,3.0,6.7,2.7
+2005,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,4.3,2.9,6.7,3.2
+2015,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,4.8,3.1,6.9,3.9
+1995,Niger,NER,Sub-Saharan Africa,Low income,2.6,2.4,5.8,2.7
+2000,Niger,NER,Sub-Saharan Africa,Low income,-1.4,2.6,5.4,3.0
+2005,Niger,NER,Sub-Saharan Africa,Low income,4.5,2.7,5.6,3.3
+2015,Niger,NIR,Sub-Saharan Africa,Low income,4.3,3.4,5.6,2.4
+1995,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,-0.1,1.1,5.3,2.3
+2000,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,5,1.5,6.2,2.2
+2005,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,6.4,1.8,6.2,3.2
+2015,Nigeria,NIG,Sub-Saharan Africa,Lower middle income,2.7,2.4,6.6,2.2
+1995,Norway,NOR,Europe & Central Asia,High income: OECD,4.2,9.5,10.0,7.1
+2000,Norway,NOR,Europe & Central Asia,High income: OECD,3.2,9.2,10.0,6.3
+2005,Norway,NOR,Europe & Central Asia,High income: OECD,2.6,9.4,10.0,6.5
+2015,Norway,NOR,Europe & Central Asia,High income: OECD,2,9.6,10.0,5.9
+1995,Oman,OMN,Middle East & North Africa,High income: nonOECD,5,6.2,6.5,1.0
+2000,Oman,OMN,Middle East & North Africa,High income: nonOECD,5.4,6.0,6.0,2.0
+2005,Oman,OMN,Middle East & North Africa,High income: nonOECD,2.5,6.0,6.3,3.1
+2015,Oman,OMA,Middle East & North Africa,High income: nonOECD,4.7,5.1,6.4,3.4
+1995,Pakistan,PAK,South Asia,Lower middle income,5,2.5,6.8,1.7
+2000,Pakistan,PAK,South Asia,Lower middle income,4.3,2.2,5.0,1.7
+2005,Pakistan,PAK,South Asia,Lower middle income,7.7,2.1,5.2,2.0
+2015,Pakistan,PAK,South Asia,Lower middle income,4.7,2.7,6.6,1.7
+1995,Panama,PAN,Latin America & Caribbean,Upper middle income,1.8,4.5,7.9,4.3
+2000,Panama,PAN,Latin America & Caribbean,Upper middle income,2.7,4.4,7.8,4.1
+2005,Panama,PAN,Latin America & Caribbean,Upper middle income,7.2,4.1,7.8,4.7
+2015,Panama,PAN,Latin America & Caribbean,Upper middle income,5.7,4.7,7.8,5.7
+1995,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,-3.3,2.9,6.3,0.7
+2000,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,-2.5,2.7,6.2,0.6
+2005,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,6.3,2.3,6.2,0.8
+2015,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,9.5,3.0,6.4,1.1
+1995,Paraguay,PRY,Latin America & Caribbean,Lower middle income,6.8,2.3,6.6,3.5
+2000,Paraguay,PRY,Latin America & Caribbean,Lower middle income,-2.3,1.9,6.6,2.9
+2005,Paraguay,PRY,Latin America & Caribbean,Lower middle income,2.1,2.2,6.7,4.0
+2015,Paraguay,PAR,Latin America & Caribbean,Lower middle income,3.1,3.2,6.9,3.2
+1995,Peru,PER,Latin America & Caribbean,Upper middle income,7.4,4.4,6.8,3.4
+2000,Peru,PER,Latin America & Caribbean,Upper middle income,2.7,4.1,0.1,2.8
+2005,Peru,PER,Latin America & Caribbean,Upper middle income,6.3,3.5,7.8,2.8
+2015,Peru,PER,Latin America & Caribbean,Upper middle income,3.3,4.1,7.8,4.6
+1995,Philippines,PHL,East Asia & Pacific,Lower middle income,4.7,3.7,6.8,4.1
+2000,Philippines,PHL,East Asia & Pacific,Lower middle income,4.4,3.2,6.7,3.8
+2005,Philippines,PHL,East Asia & Pacific,Lower middle income,4.8,3.0,6.7,3.7
+2015,Philippines,PHI,East Asia & Pacific,Lower middle income,6.1,4.0,6.7,3.7
+1995,Poland,POL,Europe & Central Asia,High income: OECD,7,6.5,9.8,4.1
+2000,Poland,POL,Europe & Central Asia,High income: OECD,4.6,5.2,9.8,3.9
+2005,Poland,POL,Europe & Central Asia,High income: OECD,3.5,4.7,10.0,8.4
+2015,Poland,POL,Europe & Central Asia,High income: OECD,3.8,7.0,10.0,8.3
+1995,Portugal,PRT,Europe & Central Asia,High income: OECD,4.3,7.1,10.0,7.6
+2000,Portugal,PRT,Europe & Central Asia,High income: OECD,3.8,7.1,10.0,7.6
+2005,Portugal,PRT,Europe & Central Asia,High income: OECD,0.8,7.3,10.0,7.9
+2015,Portugal,POR,Europe & Central Asia,High income: OECD,1.8,7.3,10.0,8.2
+1995,Qatar,QAT,Middle East & North Africa,High income: nonOECD,0,5.5,6.4,1.3
+2000,Qatar,QAT,Middle East & North Africa,High income: nonOECD,0,5.6,5.9,2.0
+2005,Qatar,QAT,Middle East & North Africa,High income: nonOECD,7.5,6.0,6.1,3.1
+2015,Qatar,QAT,Middle East & North Africa,High income: nonOECD,3.7,7.1,6.2,2.4
+1995,Romania,ROM,Europe & Central Asia,Upper middle income,6.2,4.2,7.3,3.3
+2000,Romania,ROM,Europe & Central Asia,Upper middle income,2.5,3.5,7.7,3.4
+2005,Romania,ROM,Europe & Central Asia,Upper middle income,4.7,3.8,7.8,4.1
+2015,Romania,RUM,Europe & Central Asia,Upper middle income,3.9,5.2,7.8,7.9
+1995,Russian Federation,RUS,Europe & Central Asia,High income: nonOECD,-4.1,2.8,8.0,3.4
+2000,Russian Federation,RUS,Europe & Central Asia,High income: nonOECD,10,2.2,8.3,2.9
+2005,Russian Federation,RUS,Europe & Central Asia,High income: nonOECD,6.4,2.5,8.3,3.5
+2015,Russian Federation,RUS,Europe & Central Asia,High income: nonOECD,-2.3,3.0,8.1,3.3
+1995,Rwanda,RWA,Sub-Saharan Africa,Low income,35.2,2.2,4.5,2.2
+2000,Rwanda,RWA,Sub-Saharan Africa,Low income,8.4,2.4,4.5,2.4
+2005,Rwanda,RWA,Sub-Saharan Africa,Low income,9.4,2.7,4.6,3.5
+2015,Rwanda,RWA,Sub-Saharan Africa,Low income,8.9,5.4,4.7,2.6
+1995,Saudi Arabia,SAU,Middle East & North Africa,High income: nonOECD,0.2,4.3,6.4,2.2
+2000,Saudi Arabia,SAU,Middle East & North Africa,High income: nonOECD,5.6,4.1,5.9,2.6
+2005,Saudi Arabia,SAU,Middle East & North Africa,High income: nonOECD,5.6,3.6,6.1,3.1
+2015,Saudi Arabia,SAU,Middle East & North Africa,High income: nonOECD,4.1,4.9,6.2,3.1
+1995,Senegal,SEN,Sub-Saharan Africa,Lower middle income,5.4,3.9,5.8,4.2
+2000,Senegal,SEN,Sub-Saharan Africa,Lower middle income,3.2,3.9,6.7,4.1
+2005,Senegal,SEN,Sub-Saharan Africa,Lower middle income,5.6,3.8,6.7,4.2
+2015,Senegal,SEN,Sub-Saharan Africa,Lower middle income,6.4,4.7,6.6,3.4
+2015,Serbia,SER,Europe & Central Asia,Low income,1.8,4.6,5.8,3.2
+1995,Serbia and Montenegro,YSR,Europe & Central Asia,Low income,0,2.2,4.5,1.9
+2000,Serbia and Montenegro,YSR,Europe & Central Asia,Low income,7.8,2.0,5.6,2.2
+2005,Serbia and Montenegro,SRB,Europe & Central Asia,Low income,5.5,3.0,5.5,2.4
+1995,Sierra Leone,SLE,Sub-Saharan Africa,Low income,-8,1.9,4.5,2.8
+2000,Sierra Leone,SLE,Sub-Saharan Africa,Low income,6.7,1.6,0.4,2.8
+2005,Sierra Leone,SLE,Sub-Saharan Africa,Low income,4.5,2.2,5.4,3.6
+2015,Sierra Leone,SIE,Sub-Saharan Africa,Low income,-20.6,3.0,5.7,2.5
+1995,Singapore,SGP,East Asia & Pacific,High income: nonOECD,7.2,9.4,7.3,4.4
+2000,Singapore,SGP,East Asia & Pacific,High income: nonOECD,9,9.0,7.0,4.5
+2005,Singapore,SGP,East Asia & Pacific,High income: nonOECD,7.4,9.4,7.2,6.2
+2015,Singapore,SIN,East Asia & Pacific,High income: nonOECD,2.9,9.3,7.2,5.5
+1995,Slovak Republic,SVK,Europe & Central Asia,High income: OECD,5.8,5.1,9.5,3.0
+2000,Slovak Republic,SVK,Europe & Central Asia,High income: OECD,1.2,4.7,9.8,3.2
+2005,Slovak Republic,SVK,Europe & Central Asia,High income: OECD,6.8,5.6,9.8,8.0
+2015,Slovak Republic,SLO,Europe & Central Asia,High income: OECD,4.2,6.1,10.0,8.0
+1995,Slovenia,SVN,Europe & Central Asia,High income: OECD,4.1,7.1,10.0,3.0
+2000,Slovenia,SVN,Europe & Central Asia,High income: OECD,4.2,6.2,10.0,3.2
+2005,Slovenia,SVN,Europe & Central Asia,High income: OECD,4,6.8,10.0,8.0
+2015,Slovenia,SLV,Europe & Central Asia,High income: OECD,2.3,6.9,10.0,7.7
+1995,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,8.2,4.0,6.8,1.6
+2000,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,-14.3,2.8,0.4,1.7
+2005,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,5.4,3.1,6.8,2.2
+2015,Solomon Islands,SOL,East Asia & Pacific,Lower middle income,2.5,4.1,6.8,2.4
+1995,Somalia,SOM,Sub-Saharan Africa,Low income,0,0.8,0.7,0.0
+2000,Somalia,SOM,Sub-Saharan Africa,Low income,0,0.7,0.4,0.0
+2005,Somalia,SOM,Sub-Saharan Africa,Low income,0,0.6,0.4,0.0
+2015,Somalia,SOM,Sub-Saharan Africa,Low income,0,0.0,5.4,0.0
+1995,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,3.1,6.1,7.9,2.8
+2000,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,4.2,5.4,7.8,3.6
+2005,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,5.3,5.2,7.8,4.4
+2015,South Africa,SAF,Sub-Saharan Africa,Upper middle income,1.3,5.0,7.8,4.0
+1995,Spain,ESP,Europe & Central Asia,High income: OECD,2.8,6.3,10.0,8.2
+2000,Spain,ESP,Europe & Central Asia,High income: OECD,5.3,7.5,10.0,8.3
+2005,Spain,ESP,Europe & Central Asia,High income: OECD,3.7,7.5,10.0,8.2
+2015,Spain,SPN,Europe & Central Asia,High income: OECD,3.6,6.7,10.0,8.2
+1995,Sri Lanka,LKA,South Asia,Lower middle income,5.5,3.9,6.4,2.6
+2000,Sri Lanka,LKA,South Asia,Lower middle income,6,3.7,6.3,2.6
+2005,Sri Lanka,LKA,South Asia,Lower middle income,6.2,3.4,6.4,2.8
+2015,Sri Lanka,SRI,South Asia,Lower middle income,5,4.3,6.5,1.8
+1995,Sudan,SDN,Sub-Saharan Africa,Lower middle income,6,1.5,5.2,2.5
+2000,Sudan,SDN,Sub-Saharan Africa,Lower middle income,6.3,1.5,4.9,3.0
+2005,Sudan,SDN,Sub-Saharan Africa,Lower middle income,7.5,1.3,5.3,3.1
+2015,Sudan-North,SDN,Sub-Saharan Africa,Lower middle income,4.9,1.1,5.4,2.4
+1995,Suriname,SUR,Latin America & Caribbean,Upper middle income,0,4.5,7.3,2.1
+2000,Suriname,SUR,Latin America & Caribbean,Upper middle income,2.1,4.5,7.2,2.2
+2005,Suriname,SUR,Latin America & Caribbean,Upper middle income,4.5,3.9,7.3,3.5
+2015,Suriname,SUR,Latin America & Caribbean,Upper middle income,-3.4,4.2,7.3,3.9
+1995,Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,4.8,3.2,5.0,3.7
+2000,Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,1.8,2.9,4.7,4.2
+2005,Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,6,2.6,4.8,5.0
+2015,Swaziland,SWA,Sub-Saharan Africa,Lower middle income,0.4,4.0,4.9,4.1
+1995,Sweden,SWE,Europe & Central Asia,High income: OECD,4,9.5,10.0,9.6
+2000,Sweden,SWE,Europe & Central Asia,High income: OECD,4.7,9.4,10.0,9.2
+2005,Sweden,SWE,Europe & Central Asia,High income: OECD,2.8,9.5,10.0,9.0
+2015,Sweden,SWD,Europe & Central Asia,High income: OECD,4.5,9.7,10.0,9.0
+1995,Switzerland,CHE,Europe & Central Asia,High income: OECD,0.5,9.4,10.0,6.7
+2000,Switzerland,CHE,Europe & Central Asia,High income: OECD,3.9,9.1,10.0,6.0
+2005,Switzerland,CHE,Europe & Central Asia,High income: OECD,3.1,9.5,10.0,6.3
+2015,Switzerland,SWZ,Europe & Central Asia,High income: OECD,1.3,9.6,10.0,6.1
+1995,Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,5.8,3.1,5.0,1.4
+2000,Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,2.7,2.8,4.9,1.5
+2005,Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,6.2,2.9,5.0,1.6
+2015,Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,0,1.0,4.9,1.2
+1995,Tajikistan,TJK,Europe & Central Asia,Low income,-12.4,1.2,4.5,1.2
+2000,Tajikistan,TJK,Europe & Central Asia,Low income,8.3,1.4,4.8,1.5
+2005,Tajikistan,TJK,Europe & Central Asia,Low income,6.6,1.8,4.7,1.7
+2015,Tajikistan,TAJ,Europe & Central Asia,Low income,6,2.4,4.7,0.7
+1995,Tanzania,TZA,Sub-Saharan Africa,Low income,3.6,2.6,5.0,2.6
+2000,Tanzania,TZA,Sub-Saharan Africa,Low income,4.5,2.9,4.8,3.6
+2005,Tanzania,TZA,Sub-Saharan Africa,Low income,7.5,3.2,4.9,3.6
+2015,Tanzania,TAZ,Sub-Saharan Africa,Low income,6.2,3.4,5.3,2.7
+1995,Thailand,THA,East Asia & Pacific,Upper middle income,8.1,4.1,7.9,3.6
+2000,Thailand,THA,East Asia & Pacific,Upper middle income,4.5,4.3,7.8,3.5
+2005,Thailand,THA,East Asia & Pacific,Upper middle income,4.2,4.2,7.8,4.2
+2015,Thailand,THI,East Asia & Pacific,Upper middle income,3.1,4.1,6.2,3.9
+1995,Togo,TGO,Sub-Saharan Africa,Low income,7.8,2.7,4.8,3.8
+2000,Togo,TGO,Sub-Saharan Africa,Low income,-0.8,2.5,4.7,3.7
+2005,Togo,TGO,Sub-Saharan Africa,Low income,1.2,2.0,4.6,4.1
+2015,Togo,TOG,Sub-Saharan Africa,Low income,5.7,3.1,4.8,4.5
+1995,Trinidad and Tobago,TTO,Latin America & Caribbean,High income: nonOECD,3.8,5.9,8.8,3.4
+2000,Trinidad and Tobago,TTO,Latin America & Caribbean,High income: nonOECD,6.9,5.5,9.0,3.5
+2005,Trinidad and Tobago,TTO,Latin America & Caribbean,High income: nonOECD,6.2,4.5,9.0,4.5
+2015,Trinidad and Tobago,TRI,Latin America & Caribbean,High income: nonOECD,1.8,4.7,9.0,3.9
+1995,Tunisia,TUN,Middle East & North Africa,Upper middle income,2.4,4.9,6.4,3.3
+2000,Tunisia,TUN,Middle East & North Africa,Upper middle income,4.7,4.9,6.1,4.0
+2005,Tunisia,TUN,Middle East & North Africa,Upper middle income,3.5,4.7,6.1,4.2
+2015,Tunisia,TUN,Middle East & North Africa,Upper middle income,1.2,4.2,7.6,3.7
+1995,Turkey,TUR,Europe & Central Asia,Upper middle income,7.9,4.2,7.8,3.1
+2000,Turkey,TUR,Europe & Central Asia,Upper middle income,6.6,4.0,7.6,3.7
+2005,Turkey,TUR,Europe & Central Asia,Upper middle income,9,4.1,7.6,4.4
+2015,Turkey,TUR,Europe & Central Asia,Upper middle income,6.1,4.4,7.0,4.3
+1995,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,-7.2,2.0,5.8,2.3
+2000,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,5.5,1.7,5.4,2.4
+2005,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,13,1.3,5.5,2.4
+2015,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,6.5,1.6,5.7,2.5
+1995,Uganda,UGA,Sub-Saharan Africa,Low income,11.5,2.8,4.7,2.7
+2000,Uganda,UGA,Sub-Saharan Africa,Low income,3.1,2.5,4.5,3.4
+2005,Uganda,UGA,Sub-Saharan Africa,Low income,6.3,2.6,4.8,4.0
+2015,Uganda,UGA,Sub-Saharan Africa,Low income,5.2,2.9,4.9,3.0
+1995,Ukraine,UKR,Europe & Central Asia,Lower middle income,-12.2,3.1,6.6,4.1
+2000,Ukraine,UKR,Europe & Central Asia,Lower middle income,5.9,2.0,6.4,4.5
+2005,Ukraine,UKR,Europe & Central Asia,Lower middle income,3,2.9,6.5,5.0
+2015,Ukraine,UKR,Europe & Central Asia,Lower middle income,-9.8,2.8,6.3,4.9
+1995,United Kingdom,GBR,Europe & Central Asia,High income: OECD,2.5,9.3,10.0,5.0
+2000,United Kingdom,GBR,Europe & Central Asia,High income: OECD,3.5,8.9,10.0,5.0
+2005,United Kingdom,GBR,Europe & Central Asia,High income: OECD,3.1,8.8,10.0,5.0
+2015,United Kingdom,UKG,Europe & Central Asia,High income: OECD,2.3,9.0,10.0,5.0
+1995,United States,USA,North America,High income: OECD,2.7,8.5,10.0,4.6
+2000,United States,USA,North America,High income: OECD,4.1,8.3,10.0,3.8
+2005,United States,USA,North America,High income: OECD,3.5,8.0,10.0,4.5
+2015,United States,USA,North America,High income: OECD,2.9,8.3,10.0,4.3
+1995,Uruguay,URY,Latin America & Caribbean,High income: nonOECD,-1.4,5.6,9.0,3.1
+2000,Uruguay,URY,Latin America & Caribbean,High income: nonOECD,-1.9,5.7,9.0,3.0
+2005,Uruguay,URY,Latin America & Caribbean,High income: nonOECD,7.5,6.3,9.0,3.8
+2015,Uruguay,URU,Latin America & Caribbean,High income: nonOECD,0.4,7.7,9.0,3.4
+1995,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,-0.9,1.6,5.0,3.1
+2000,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,3.8,1.7,4.7,2.9
+2005,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,7,1.4,4.8,2.9
+2015,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,7.4,1.8,4.9,2.6
+1995,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,4,3.1,7.7,1.7
+2000,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,3.7,2.8,6.8,2.0
+2005,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,10.3,2.1,5.2,2.4
+2015,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,-8,1.4,4.3,2.3
+1995,Vietnam,VNM,East Asia & Pacific,Lower middle income,9.5,3.2,5.2,2.9
+2000,Vietnam,VNM,East Asia & Pacific,Lower middle income,6.8,2.9,4.9,3.1
+2005,Vietnam,VNM,East Asia & Pacific,Lower middle income,7.5,3.0,5.0,3.6
+2015,Vietnam,VIE,East Asia & Pacific,Lower middle income,6.7,3.5,5.1,3.7
+1995,"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,5.7,2.6,5.7,0.8
+2000,"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,6.2,2.3,5.4,1.2
+2005,"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,5.6,2.3,5.5,1.2
+2015,"Yemen, Rep.",YEM,Middle East & North Africa,Lower middle income,-16.7,1.2,0.6,0.9
+1995,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,2.9,3.5,6.5,3.8
+2000,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,3.9,3.4,5.8,3.4
+2005,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,7.2,2.9,6.3,3.9
+2015,Zambia,ZAM,Sub-Saharan Africa,Lower middle income,2.9,4.1,6.6,3.9
+1995,Zimbabwe,ZWE,Sub-Saharan Africa,Low income,0.2,3.9,4.5,3.6
+2000,Zimbabwe,ZWE,Sub-Saharan Africa,Low income,-3.1,2.3,4.6,3.7
+2005,Zimbabwe,ZWE,Sub-Saharan Africa,Low income,-5.7,1.5,4.6,3.8
+2015,Zimbabwe,ZIM,Sub-Saharan Africa,Low income,1.8,1.9,5.4,2.3
