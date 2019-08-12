@@ -69,7 +69,7 @@ for(i in 1:length(countries)){
   plot_data <- rbindlist(list(max_indicator, min_indicator, plot_data[, mget(indicators)]))
   plot_data <- data.frame(plot_data)
   rownames(plot_data) <- c("1", "2", years)
-  colnames(plot_data) <- c( "Sovereignty \n Index", "Political \n System Index", "Globalization \n Index", "Growth \n GDP")
+  colnames(plot_data) <- c( "Sovereignty \n Index", "Political \n System Index", "Globalization Index", "Growth \n GDP")
     
     # plot with default options:
 
